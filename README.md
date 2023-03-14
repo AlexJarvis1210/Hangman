@@ -6,11 +6,13 @@ A version of the classic game Hangman. Part of the 30 day challenge by Matthew J
 Taken from Wikipedia(1)
 
 History
+
 Though the origins of the game are unknown, a variant is mentioned in a book of children's games assembled by Alice Gomme in 1894 called Birds, Beasts, and Fishes. This version lacks the image of a hanged man, instead relying on keeping score as to the number of attempts it took each player to fill in the blanks.
 
 A version which incorporated hanging imagery was described in a 1902 Philadelphia Inquirer article, which stated that it was popular at "White Cap" parties hosted by "Vigilance Committees" where guests would wear "white peaked caps with masks"
 
 Overview
+
 The word to guess is represented by a row of dashes representing each letter of the word. Rules may permit or forbid proper nouns, such as names, places, brands, or slang. If the guessing player suggests a letter which occurs in the word, the other player writes it in all its correct positions. If the suggested letter does not occur in the word, the other player removes (or alternatively, adds) one element of a hanged stick figure as a tally mark. Generally, the game ends once the word is guessed, or if the stick figure is complete — signifying that all guesses have been used.
 
 The player guessing the word may, at any time, attempt to guess the whole word.[3] If the word is correct, the game is over and the guesser wins. Otherwise, the other player may choose to penalize the guesser by adding an element to the diagram. On the other hand, if the guesser makes enough incorrect guesses to allow the other player to complete the diagram, the guesser loses. However, the guesser can also win by guessing all the letters that appear in the word, thereby completing the word, before the diagram is completed.
