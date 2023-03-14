@@ -19,7 +19,7 @@ The player guessing the word may, at any time, attempt to guess the whole word.[
 
 ----------------------------------------------------------------------------------------------------------
 
-I intened to make a variation of the original game to suit the Python terminal window and to add some extra interactivity for the player. Changes include:
+I intened to make a variation of the original game to suit the Codespace terminal window and to add some extra interactivity for the player. Changes include:
 
 - The player will choose a catagory from which the word will be chosen. For example, TV shows, Sports star, Movie titles, Famous Phrases.
 - The player will get _n_ number of incorrect guesses before the answer is revealed (This will replace the old-style Hanging man drawing to suit Codespace's terminal window)
