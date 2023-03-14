@@ -3,7 +3,7 @@ A version of the classic game Hangman. Part of the 30 day challenge by Matthew J
 
 ---------------------------------------------------------------------------------------------------------
 
-Taken from wikipedia(1)
+Taken from Wikipedia(1)
 
 History
 Though the origins of the game are unknown, a variant is mentioned in a book of children's games assembled by Alice Gomme in 1894 called Birds, Beasts, and Fishes. This version lacks the image of a hanged man, instead relying on keeping score as to the number of attempts it took each player to fill in the blanks.
